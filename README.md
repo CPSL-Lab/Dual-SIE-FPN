@@ -2,7 +2,7 @@
 
 In this paper, we propose a novel semantic and spatial information enhancing feature pyramid network (**Dual SIE-FPN**), which mainly focuses on alleviating multi-scale hierarchical feature transmission loss and enhancing the feature representation. Specifically, **Dual SIE-FPN** contains three modules: Lateral Feature Enhancement (**LFE**), Global Attention Upsampling (**GAU**), and Multiple Information Compensation (**MIC**). **LFE** is designed to capture deep semantic representation and enhance channel information. **GAU** is established to make up for spatial information loss caused by upsampling, and transmit the high-level features with the compensatory information to low-level features simultaneously. **MIC** is designed to work with **LFE** in parallel to further improve the information loss resulting from 1×1 convolution.
 
-![](./figure/fig3.png)
+１１１１１１
 
 ## Development Environment
 
